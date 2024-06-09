@@ -1,12 +1,12 @@
-CID_547_Athena_Commando_F_Meteorwoman, 2500
-EID_LetsBegin_Beyond, 2000
+CID_694_Athena_Commando_M_CatBurglar, 3000
+EID_WIR, 800
 na
 na
 na
 na
-CID_027_Athena_Commando_F, 1200
+CID_353_Athena_Commando_F_Bandolier, 1200
 Pickaxe_ID_224_Butterfly, 500
-EID_KEagle, 500
-EID_Everytime, 700
-CID_356_Athena_Commando_F_Farmer, 800
-Glider_ID_118_Squishy, 300
+EID_WalkieWalk, 700
+Umbrella_Storm, 700
+CID_586_Athena_Commando_F_PunkDevil, 1500
+MusicPack_026_LasagnaChill, 300
